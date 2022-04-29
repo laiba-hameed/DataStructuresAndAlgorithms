@@ -25,6 +25,6 @@ public:
 
 int main() {
 
-	Pers
+	//Person p = new Person("lilia", 20, 342242244);
 	return 0;
 }
