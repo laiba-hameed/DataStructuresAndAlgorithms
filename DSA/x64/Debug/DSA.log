@@ -1,0 +1,6 @@
+﻿  arrays.cpp
+  ArraysDSA.cpp
+D:\DSA\DataStructuresAndAlgorithms\DSA\ArraysDSA.cpp(28,2): error C2065: 'Pers': undeclared identifier
+D:\DSA\DataStructuresAndAlgorithms\DSA\ArraysDSA.cpp(29,2): error C2143: syntax error: missing ';' before 'return'
+  Stack.cpp
+  Generating Code...
